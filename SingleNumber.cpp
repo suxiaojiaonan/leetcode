@@ -1,3 +1,4 @@
+//Given an array of integers, every element appears twice except for one. Find t//hat single one.
 class Solution {
 public:
     int singleNumber(int A[], int n) {
